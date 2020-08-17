@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Semrad_Marketing_Assistant_version_2</RootNamespace>
+    <StartupObject>Semrad_marketing_assistant.StartUp</StartupObject>
+  </PropertyGroup>
+
+</Project>
